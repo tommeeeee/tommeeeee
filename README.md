@@ -1,4 +1,12 @@
-## Hi there 👋
+
+## Hi there, I'm Tommy 👋
+
+Blockchain security researcher & Software engineer
+
+<p align="left">
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+</p>
 
 <!--
 **tommeeeee/tommeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
